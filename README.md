@@ -1,4 +1,4 @@
-![Cuplikan layar 2024-09-18 132417](https://github.com/user-attachments/assets/d70bb2a8-de99-41f9-b2bb-99964c7bc7da)# TUGAS-PRAKTIKUM-PEMROGRAMAN-WEB-II
+# TUGAS-PRAKTIKUM-PEMROGRAMAN-WEB-II
 PHP OOP (Object-Oriented Programming) 
 merupakan pendekatan pemrograman di PHP yang berfokus pada penggunaan objek dan kelas untuk memodelkan dan mengorganisasikan kode. Dalam OOP, konsep dasar seperti Encapsulation (enkapsulasi), Inheritance (pewarisan), Polymorphism (polimorfisme), dan Abstraction (abstrak) yang digunakan untuk membuat kode lebih terstruktur, modular, dan mudah dikelola.
 
